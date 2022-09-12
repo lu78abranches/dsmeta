@@ -12,6 +12,8 @@ function Header() {
                 <p>
                     Desenvolvido por
                     <a href="https://instagram.com/devsuperior.ig"> @devsuperior.ig</a>
+                    Reproduzido com a finalidade de estudo por
+                    <a href="https://github.com/lu78abranches"> github.com/lu78abranches</a>
                 </p>
             </div>
         </header>
