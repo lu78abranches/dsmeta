@@ -10,10 +10,15 @@ function Header() {
                 <img src={logo} alt="DSMeta" />
                 <h1>DSMeta</h1>
                 <p>
-                    Desenvolvido por
-                    <a href="https://instagram.com/devsuperior.ig"> @devsuperior.ig</a>
+                   
                     Reproduzido com a finalidade de estudo por
                     <a href="https://github.com/lu78abranches"> github.com/lu78abranches</a>
+                    <br></br><br></br>
+                    
+                </p>
+                <p>
+                    Desenvolvido por
+                    <a href="https://instagram.com/devsuperior.ig"> @devsuperior.ig</a>
                 </p>
             </div>
         </header>

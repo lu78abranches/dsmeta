@@ -19,9 +19,11 @@ header {
 .dsmeta-logo-container h1 {
     margin-top: 15px;
     font-size: 24px;
+    align-items: center;
 }
 
 .dsmeta-logo-container p {
     font-size: 14px;
     font-weight: 300;
+    align-items: center;
 }
