@@ -7,5 +7,6 @@
 
 ## Back-End:  Spring Boot - Linguagem de programação Java
 ## Front-End: React - Linguagem de programação - TypeScript - CSS - HTML
+## Design no Front-End - Figma
 
 
