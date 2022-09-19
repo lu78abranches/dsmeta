@@ -8,6 +8,6 @@
 ## Back-End:  Spring Boot - Linguagem de programação Java
 ## Front-End: React - Linguagem de programação - TypeScript - CSS - HTML
 ## Design no Front-End - Figma
-## Banco de Dados usando JPA hospedado no Heroku. Disponivel o acesso até novembro/2022, após a data o Heroku suspende a host free.
+## Banco de Dados usando JPA hospedado no Heroku. Disponivel o acesso até novembro/2022, após a data o Heroku suspende o free hosting.
 
 
