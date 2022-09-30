@@ -4,7 +4,7 @@
 
 ## Acesse a página na web do projeto!
 <p align="left">
-  <a href="https://dsmeta-luis-abranches.netlify.app/"><img width="552" height="360" src="https://user-images.githubusercontent.com/101315079/191156412-eae73a2a-4e84-4048-a5cc-d2e85a926240.png">
+  <a href="https://dsmeta-luis-abranches.netlify.app/"><img width="552" height="360" src="https://user-images.githubusercontent.com/101315079/191156412-eae73a2a-4e84-4048-a5cc-d2e85a926240.png#vitrinedev">
 </p>
 
 
