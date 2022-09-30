@@ -9,7 +9,7 @@
 
 
 ## Clique no GIF e assista no YouTube!
-[![ezgif com-gif-maker](https://user-images.githubusercontent.com/101315079/191152158-afc4ef7c-abcb-4691-a98f-cc1961f5a3f8.gif)](https://youtu.be/PCTvp9aV2bw)
+[![ezgif com-gif-maker](https://user-images.githubusercontent.com/101315079/191152158-afc4ef7c-abcb-4691-a98f-cc1961f5a3f8.gif#vitrinedev)](https://youtu.be/PCTvp9aV2bw)
 
 
 ## Back-End:  Spring Boot - Linguagem de programação Java
