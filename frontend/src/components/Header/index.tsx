@@ -1,29 +1,36 @@
-import logo from '../../assets/img/logo2.svg';
+import logo from '../../assets/img/core_metrics_image.png';
 
-import'./styles.css';
+import './styles.css';
 
 function Header() {
     return (
-
         <header>
-            <div className="dsmeta-logo-container">
-                <img src={logo} alt="DSMeta" />
-                <h1>DSMeta</h1>
+            <div className="coremetrics-logo-container">
+
+                <img src={logo} alt="CoreMetrics" />
+
+                <h1>CoreMetrics</h1>
+
+                <span>Analytics Dashboard</span>
+
                 <p>
-                   
-                    Reproduzido com a finalidade de estudo por
-                    <a href="https://github.com/lu78abranches"> github.com/lu78abranches</a>
-                    <br></br><br></br>
-                    
-                </p>
-                <p>
+                    Projeto reproduzido para fins de estudo e evolução em
+                    desenvolvimento Front-end com React.
+                    <br /><br />
+
                     Desenvolvido por
-                    <a href="https://instagram.com/devsuperior.ig"> @devsuperior.ig</a>
+                    <a
+                        href="https://github.com/lu78abranches"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
+                        {" "}lu78abranches
+                    </a>
                 </p>
+
             </div>
         </header>
-
-    )
+    );
 }
 
 export default Header;
