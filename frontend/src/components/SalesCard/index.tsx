@@ -20,6 +20,7 @@ function Salescard() {
     const [error, setError] = useState<string | null>(null);
 
     useEffect(() => {
+        console.log("Fetching from:", BASE_URL);
         setLoading(true);
         setError(null);
         const dmin = filter.min.toISOString().slice(0, 10);
