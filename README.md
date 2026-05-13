@@ -65,3 +65,11 @@ Para que a aplicação inicialize corretamente na hospedagem (Render), as seguin
 | `TWILIO_KEY` | Chave de autenticação privada do Twilio (Auth Token) |
 | `TWILIO_PHONE_FROM` | Número de telefone remetente fornecido pelo Twilio |
 | `TWILIO_PHONE_TO` | Número de telefone de destino validado para o recebimento do SMS |
+
+### 📬 Contact & Developer
+
+##### Luis Abranches/GitHub
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lu78abranches)
+
+##### Luis Abranches/LinkedIn 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-abranches/)
