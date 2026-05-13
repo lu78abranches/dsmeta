@@ -9,8 +9,6 @@ um celular cadastrado no back-end da aplicação.
 | -------------  | --- |
 | :sparkles: Nome        | **CoreMetrics - Relatório de Vendas**
 | :label: Tecnologias | java, spring boot, typescript, react, css, html,  (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Readme no GitHub  | https://github.com/lu78abranches/dsmeta
 
 ## 🌐 Projeto
 
