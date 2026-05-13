@@ -7,11 +7,11 @@
 		<version>2.7.3</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.devsuperior</groupId>
-	<artifactId>dsmeta</artifactId>
+	<groupId>com.coremetrics</groupId>
+	<artifactId>coremetrics</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dsmeta</name>
-	<description>Projeto da Semana Spring React DevSuperior</description>
+	<name>coremetrics</name>
+	<description>Projeto CoreMetrics - Análise de Métricas</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>

@@ -1,11 +1,11 @@
-package com.devsuperior.dsmeta.services;
+package com.coremetrics.core.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
-import com.devsuperior.dsmeta.entities.Sale;
-import com.devsuperior.dsmeta.repositories.SaleRepository;
+import com.coremetrics.core.entities.Sale;
+import com.coremetrics.core.repositories.SaleRepository;
 import com.twilio.Twilio;
 import com.twilio.rest.api.v2010.account.Message;
 import com.twilio.type.PhoneNumber;
@@ -27,16 +27,15 @@ public class SmsService {
 
 	@Autowired
 	private SaleRepository saleRepository;
-	
+
 	public void sendSms(Long saleId) {
-		
+
 		Sale sale = saleRepository.findById(saleId).get();
-		
-		String date = sale.getDate().getMonthValue() + "/" + sale.getDate()	.getYear();	
-		
-		
+
+		String date = sale.getDate().getMonthValue() + "/" + sale.getDate().getYear();
+
 		String msg = "O vendedor " + sale.getSellerName() + " foi destaque em " + date
-			    + " com um total de R$ " + String.format("%.0f", sale.getAmount());
+				+ " com um total de R$ " + String.format("%.0f", sale.getAmount());
 
 		Twilio.init(twilioSid, twilioKey);
 
