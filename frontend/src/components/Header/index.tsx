@@ -7,11 +7,14 @@ function Header() {
         <header>
             <div className="coremetrics-logo-container">
 
-                <img src={logo} alt="CoreMetrics" />
+                <div className="logo-wrapper">
+                    <img src={logo} alt="CoreMetrics" />
+                    <div className="logo-glow"></div>
+                </div>
 
                 <h1>CoreMetrics</h1>
 
-                <span>Analytics Dashboard</span>
+                <span className="subtitle">Analytics Dashboard</span>
 
                 <p>
                     Projeto reproduzido para fins de estudo e evolução em
@@ -34,5 +37,4 @@ function Header() {
 }
 
 export default Header;
-
 
