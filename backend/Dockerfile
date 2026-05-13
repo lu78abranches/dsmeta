@@ -3,6 +3,6 @@ COPY . .
 RUN mvn clean package -DskipTests
 
 FROM openjdk:17-jdk-slim
-COPY --from=build /target/coremetrics-0.0.1-SNAPSHOT.jar coremetrics.jar
+COPY --from=build target/coremetrics-0.0.1-SNAPSHOT.jar coremetrics.jar
 EXPOSE 8080
 ENTRYPOINT ["java","-jar","coremetrics.jar"]
