@@ -2,6 +2,10 @@
 
 ## ✨ Nome: CoreMetrics - Relatório de Vendas
 
+## 🌐 Projeto
+
+## - [Deploy (projeto em produção)](https://core-metrics.netlify.app/)
+
 ### 🎯 Objetivo do Projeto
 O objetivo deste projeto é desenvolver uma aplicação Fullstack que fornece uma página interativa para exibição de relatórios de vendas. A aplicação permite filtrar as transações por um período de datas específico, exibindo detalhes cruciais como o valor da venda, o nome do vendedor e a data da transação. Adicionalmente, o usuário pode selecionar uma venda específica e disparar uma notificação instantânea via SMS para um celular cadastrado.
 
