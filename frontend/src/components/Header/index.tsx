@@ -17,8 +17,7 @@ function Header() {
                 <span className="subtitle">Analytics Dashboard</span>
 
                 <p>
-                    Projeto reproduzido para fins de estudo e evolução em
-                    desenvolvimento Front-end com React.
+                
                     <br /><br />
 
                     Desenvolvido por
